@@ -1,6 +1,6 @@
 # Projeto consiste em recriar este site:
 
 <div align="center">
-<img src="![Home - Cubos Shop](https://github.com/RyanderGodinho/Loja_com_React/assets/112562924/0d527dc2-6c62-4e4b-83b7-63d70a6e896d)" width="0px" />
+<img src="https://github.com/RyanderGodinho/Loja_com_React/assets/112562924/267b62b1-0daa-425f-8318-1471a541aa67" width="0px" />
 </div>
 
